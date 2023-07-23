@@ -209,7 +209,7 @@ p {
 @media (hover: none)
 {
     .menu li a:hover {
-        color: #000;
+        pointer-events: none;
     }
 
     .link:hover {
